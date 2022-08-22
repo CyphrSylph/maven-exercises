@@ -1,0 +1,12 @@
+#Mac Files
+.DS_Store
+
+#IntelliJ Files
+.idea
+*.iml
+
+#Out Files
+target
+
+#Log Files
+logs
